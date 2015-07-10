@@ -1,0 +1,2 @@
+# html_sandbox
+htmlとか色々練習用、localhost環境での開発の練習も兼ねて
